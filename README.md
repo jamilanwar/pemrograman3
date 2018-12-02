@@ -14,11 +14,11 @@
 | UI | [Lumino Admin](https://medialoot.com/item/lumino-admin-bootstrap-template/) |
 
 ### Installation
-```sh
+```
  - Download or Clone this project, and then move to your htdocs folder
- - Dont forget to import the database
- eg : "/opt/lampp/htdocs (LINUX)"
-      "C:\xampp\htdocs (WINDOWS)
+ 	eg : "/opt/lampp/htdocs (LINUX)"
+      	     "C:\xampp\htdocs (WINDOWS)
+- Dont forget to import the database
 ```
 
 ### FOR LOGIN
