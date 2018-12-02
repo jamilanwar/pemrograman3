@@ -8,10 +8,10 @@
 | Info | Using |
 | :--- | :---- |
 | OS | Debian 9.5 / Ubuntu 18.04 |
-| Framework | Codeigniter |
-| PHP ver | PHP 7.2 |
+| Framework | [Codeigniter](https://codeigniter.com/download) |
+| PHP ver | [XAMPP (PHP 7.2)](https://www.apachefriends.org/download.html) |
 | Database | MySql |
-| UI | Lumino Admin |
+| UI | [Lumino Admin](https://medialoot.com/item/lumino-admin-bootstrap-template/) |
 
 ### Installation
 ```sh
