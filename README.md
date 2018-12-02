@@ -1,5 +1,8 @@
 # PROJEK PENGGAJIAN (PHP)
 
+![cover](https://user-images.githubusercontent.com/38096925/49334882-b7b4e380-f5ae-11e8-94b5-3f7872b9c8a6.png)
+
+
 ### DETAILS
 
 | Info | Using |
